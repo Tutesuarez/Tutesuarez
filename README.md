@@ -21,7 +21,5 @@ Recently Fullstack graduate with a passion for backend development leveraging my
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<div>
-<img src="https://raw.githubusercontent.com/Tutesuarez/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/Tutesuarez/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tutesuarez&show_icons=true&theme=dark)    [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutesuarez&layout=compact&theme=dark)](https://github.com/Tutesuarez/github-readme-stats)
