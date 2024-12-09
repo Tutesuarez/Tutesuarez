@@ -1,4 +1,4 @@
-# Hi there
+# Hi there <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></img>
 ![Header](./github-header-image.png)
 Recently Fullstack graduate with a passion for backend development leveraging my skills in MERN stack and a foundational understanding of AWS. I'm eager to contribute to challenging projects at innovative companies alongside experienced professionals, fostering my growth as a developer.
 
